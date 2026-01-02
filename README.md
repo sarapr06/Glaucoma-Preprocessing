@@ -1,8 +1,9 @@
 # Glaucoma Classification using VGG16 and Multi-Spectral Analysis
+Under the supervision of Niloufar Delfan.
 
 This project implements an automated image preprocessing and deep learning pipeline for the detection of Glaucoma. It explores how different color transformations (RGB, GrayScale, HSV, and CMYK) affect the classification performance of a Convolutional Neural Network.
 
-NOTE: This has been adapted from a Kaggle notebook which is why there are import statements at different stages of the code.
+**NOTE**: This has been adapted from a Kaggle notebook which is why there are import statements at different stages of the code.
 The project is designed to work with the Drishti-GS Retina Dataset. Classes: 0 (Normal), 1 (Glaucoma).
 
 ## Structure: 
